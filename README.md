@@ -32,8 +32,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📌 Pinned Projects
-- 🔭 **Kepler Vision** — Autonomous exoplanet discovery platform (83.6% accuracy, 95.1% ROC-AUC on NASA telemetry)
-- 🔍 **AviShkar** — AI-powered patent search and novelty-scoring tool using Gemini 2.5 Flash + semantic embeddings
-- 🔐 **IoT Continuous Authentication** — Gateway-based security framework using RF fingerprinting + CNN/LSTM
 
