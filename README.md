@@ -1,12 +1,10 @@
 # Hi, I'm Akshata! 👋
 
-## 💫 About Me:
-🔭 I'm currently working on — **Kepler Vision**, an ML platform for exoplanet discovery, and **AviShkar**, an AI-powered patent search tool<br>
-👯 I'm looking to collaborate on — ML/backend projects, agentic AI, or anything that mixes data with real product thinking<br>
-🤔 I'm looking for help with — scaling ML systems and deepening my backend architecture skills<br>
-🌱 I'm currently learning — Generative AI, MLOps, and Vertex AI workflows<br>
-💭 Ask me about — machine learning, FastAPI, IoT security, or SHAP-based model explainability<br>
-⚡ Fun fact — I train models by day and design the dashboards to explain them by night 😄
+##  About Me:
+ I'm looking to collaborate on — ML/backend projects, agentic AI, or anything that mixes data with real product thinking<br>
+ I'm looking for help with — scaling ML systems and deepening my backend architecture skills<br>
+ I'm currently learning — Generative AI, MLOps, and Vertex AI workflows<br>
+ Ask me about — machine learning, FastAPI, IoT security, or SHAP-based model explainability<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( www.linkedin.com/in/akshata-srivastava-030953352)
